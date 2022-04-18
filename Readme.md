@@ -12,15 +12,20 @@ In it 3 information have to be put:
 
 
 In the folder Leda we will put an example from a victim.
-References
+## Inspirations
 Other interesting references and resources:
-https://www.ted.com/speakers/jessica_ladd -> great app, excellent idea, one problem: it will take hundreds of years before any administration implement it in my own country.
+* https://www.ted.com/speakers/jessica_ladd 
+
+great app, excellent idea! one problem: it will take hundreds of years before any administration implement it in my own country.
+* (http://coabuse.fr/)[http://coabuse.fr/]
+
 
 ## Disclaimer:
 As far as we know  there is nothing illegal or immoral in calling other victims for help and at no point this website is  accusing anyone. But this website is not made by lawyers. This project is underconstruction, see issues.
-Justice knows borders when perpetrators don’t. Justice put the victim into a Kafkaian situations that is the last thing a victim deserves to live. Asking a victim why they do not pursue their rapist is like asking one victim of the titanic they don’t go destroy the iceberg. They have better things to do!
+Justice knows borders when perpetrators don’t. Justice put the victim into a Kafkaian situations that is the last thing a victim deserves to live. Asking a victim why they do not pursue their rapist is like asking one victim of the titanic why they don’t go destroy the iceberg. They have better things to do, thank you!
 
-
+## Disclaimer 2 
+This project never claims to be the solution to every single case of rape. We trust victims sense of judgement to decide what is good to themselves.
 
 ---
 
@@ -54,3 +59,6 @@ https://translations.ooltra.net/Lyrics.php?a=ZAZ&s=TousLesCrisLesSOS
 - [ ] Risk assessment for the victims? Reassure them.
 - [ ] List of paradoxal injonction and how to answer. "You really could not do anythiiiing"
 Leda.
+- [ ] Add link to example online
+- [ ] link the folder to gitlab
+- [ ] 
