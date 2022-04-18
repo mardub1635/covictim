@@ -61,4 +61,5 @@ https://translations.ooltra.net/Lyrics.php?a=ZAZ&s=TousLesCrisLesSOS
 Leda.
 - [ ] Add link to example online
 - [ ] link the folder to gitlab
+- [ ] Translating in French
 - [ ] 
