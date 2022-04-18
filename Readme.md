@@ -54,3 +54,5 @@ https://translations.ooltra.net/Lyrics.php?a=ZAZ&s=TousLesCrisLesSOS
 - [ ] Risk assessment for the victims? Reassure them.
 - [ ] List of paradoxal injonction and how to answer. "You really could not do anythiiiing"
 Leda.
+- [ ] Translating in French
+- [ ] 
