@@ -1,31 +1,43 @@
+# Build a website for each victims of rape
+## Let's gather the co-victims of the same perpetrator!
+
+## Introduction
 Our society obsess with pursuing the perpetrators. Legal justice is reduced to a cathartic function.
 But victims search first and formost to help and protect potential other victims. And a rape victim is the best at protecting and understanding the damages caused by their own perpretator.
 
 Let’s make sense of their experience! Let’s throw their bottle to the internet sea!
 
+## Quick start
+
 This is the template for a website that any victim of rape or sexual assault can use. 
+
+In the folder [./public](./public) you will find an example of website [index.html](./public/index.html). Just replace the text with your text instead.
 
 In it 3 information have to be put:
 1. The element that identify the perpetrator and that will allow the other victim to identify the perpetrator. (for instance, name, city etc.). NEVER use pejorative or accusative terms just stay as neutral and descriptive as possible.
 2. A reference to the feeling and the context in which the potential other victim is likely to be (and to recognise themselves), for instance: in a close relationship with the perpetrator, underage, feeling sad etc. NEVER mention the rape explicitely.
 3. A contact info.
 
-
 In the folder Leda we will put an example from a victim.
+
+## For the techies
+There is a mustache template. Just change the text in the [base.yml](base.yml) and run:
+```bash
+sh render.sh
+
+```
+
 ## Inspirations
+
 Other interesting references and resources:
-* https://www.ted.com/speakers/jessica_ladd 
+* [Jessica Ladd information escrow](https://www.ted.com/speakers/jessica_ladd)
 
 great app, excellent idea! one problem: it will take hundreds of years before any administration implement it in my own country.
-* (http://coabuse.fr/)[http://coabuse.fr/]
-
+* [http://coabuse.fr/](http://coabuse.fr/)
 
 ## Disclaimer:
 As far as we know  there is nothing illegal or immoral in calling other victims for help and at no point this website is  accusing anyone. But this website is not made by lawyers. This project is underconstruction, see issues.
 Justice knows borders when perpetrators don’t. Justice put the victim into a Kafkaian situations that is the last thing a victim deserves to live. Asking a victim why they do not pursue their rapist is like asking one victim of the titanic why they don’t go destroy the iceberg. They have better things to do, thank you!
-
-## Disclaimer 2 
-This project never claims to be the solution to every single case of rape. We trust victims sense of judgement to decide what is good to themselves.
 
 ---
 
@@ -62,4 +74,4 @@ Leda.
 - [ ] Add link to example online
 - [ ] link the folder to gitlab
 - [ ] Translating in French
-- [ ] 
+- [ ] Add the graphics from coabused
