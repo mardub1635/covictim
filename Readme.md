@@ -1,4 +1,4 @@
-# Build a website for each victims of rape
+# A website for each victims of rape
 ## Let's gather the co-victims of the same perpetrator!
 
 ## Introduction
@@ -26,7 +26,10 @@ There is a mustache template. Just change the text in the [base.yml](base.yml) a
 sh render.sh
 
 ```
-
+## Files
+ - [index.html](./public/index.html) the template
+ - [Oath.txt](./aoth.txt), my main oath. I also inspire my deontology from this:https://capgemini.github.io/development/developers-hippocratic-oath/
+ 
 ## Inspirations
 
 Other interesting references and resources:
@@ -37,7 +40,7 @@ great app, excellent idea! one problem: it will take hundreds of years before an
 
 ## Disclaimer:
 As far as we know  there is nothing illegal or immoral in calling other victims for help and at no point this website is  accusing anyone. But this website is not made by lawyers. This project is underconstruction, see issues.
-Justice knows borders when perpetrators don’t. Justice put the victim into a Kafkaian situations that is the last thing a victim deserves to live. Asking a victim why they do not pursue their rapist is like asking one victim of the titanic why they don’t go destroy the iceberg. They have better things to do, thank you!
+Justice knows borders when perpetrators don’t. Justice put the victim into a Kafkaian situation that is the last thing a victim deserves to live. Asking a victim why they do not pursue their rapist is like asking one victim of the titanic why they don’t go destroy the iceberg. They have better things to do, thank you!
 
 ---
 
@@ -75,3 +78,4 @@ Leda.
 - [ ] link the folder to gitlab
 - [ ] Translating in French
 - [ ] Add the graphics from coabused
+- [ ] https://www.abc.net.au/triplej/programs/hack/young-men-sexual-assault-reckoning/13280118 address men that feel ashamed
