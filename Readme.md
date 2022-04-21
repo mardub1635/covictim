@@ -79,3 +79,6 @@ Leda.
 - [ ] Translating in French
 - [ ] Add the graphics from coabused
 - [ ] https://www.abc.net.au/triplej/programs/hack/young-men-sexual-assault-reckoning/13280118 address men that feel ashamed
+- [ ] find a better way than github docs to deploy the page on github
+- [ ] tutorial: https://github.com/Vinnl/feeds
+- [ ] https://mardub1635.github.io/covictim/
