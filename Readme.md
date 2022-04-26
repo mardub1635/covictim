@@ -11,7 +11,7 @@ Let’s make sense of their experience! Let’s throw their bottle to the intern
 
 This is the template for a website that any victim of rape or sexual assault can use. 
 
-In the folder [./public](./public) you will find an example of website [index.html](./public/index.html). Just replace the text with your text instead.
+In the folder [./docs](./docs) you will find an example of website [index.html](./docs/index.html). Just replace the text with your text instead.
 
 In it 3 information have to be put:
 1. The element that identify the perpetrator and that will allow the other victim to identify the perpetrator. (for instance, name, city etc.). NEVER use pejorative or accusative terms just stay as neutral and descriptive as possible.
@@ -27,7 +27,7 @@ sh render.sh
 
 ```
 ## Files
- - [index.html](./public/index.html) the template
+ - [index.html](./public/index.html) the template [website](https://mardub1635.github.io/covictim/) based on the story of [Leda](https://www.greekmythology.com/Myths/Mortals/Leda/leda.html) raped by Jupiter.
  - [Oath.txt](./aoth.txt), my main oath. I also inspire my deontology from this:https://capgemini.github.io/development/developers-hippocratic-oath/
  
 ## Inspirations
@@ -82,3 +82,6 @@ Leda.
 - [ ] find a better way than github docs to deploy the page on github
 - [ ] tutorial: https://github.com/Vinnl/feeds
 - [ ] https://mardub1635.github.io/covictim/
+- [ ] contacting the yana people
+- [ ] https://www.balancetonporc.com/retrouvez-ses-victimes/
+- [ ] other website plateform : http://txti.es/ note: find something easy to use and that is SEO optimised????
