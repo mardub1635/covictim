@@ -11,10 +11,10 @@ Let’s make sense of their experience! Let’s throw their bottle to the intern
 
 This is the template for a website that any victim of rape or sexual assault can use. 
 
-In the folder [./docs](./docs) you will find an example of website [index.html](./docs/index.html). Just replace the text with your text instead.
+In the folder [./docs](./docs) you will find an example of website [index.html](https://mardub1635.github.io/covictim/). Just replace the text with your own text instead.
 
 In it 3 information have to be put:
-1. The element that identify the perpetrator and that will allow the other victim to identify the perpetrator. (for instance, name, city etc.). NEVER use pejorative or accusative terms just stay as neutral and descriptive as possible.
+1. The element that identify the perpetrator and that will allow the other victim to identify the perpetrator. (for instance, name, city etc.). NEVER use pejorative or accusative terms just stay as neutral and objective as possible.
 2. A reference to the feeling and the context in which the potential other victim is likely to be (and to recognise themselves), for instance: in a close relationship with the perpetrator, underage, feeling sad etc. NEVER mention the rape explicitely.
 3. A contact info.
 
