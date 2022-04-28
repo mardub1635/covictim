@@ -10,7 +10,9 @@ Ah, since I am a queen, tabloids have already published photos of the action:
 
 Thanks wikipedia!
 
-I even discovered some ![revenge porn](https://upload.wikimedia.org/wikipedia/commons/f/fa/Sellier-Leda.jpg) on the e-agora.
+I even discovered some revenge porn on the e-agora:
+
+![Attributed to Charles Sellier (1830-1882), Public domain, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/f/fa/Sellier-Leda.jpg) 
 
 Needless to say the young girl I was, felt pretty devastated.
 
