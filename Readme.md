@@ -1,4 +1,4 @@
-# A website for each victims of rape
+# A website for each victim of rape
 ## Let's gather the co-victims of the same perpetrator!
 
 ## Introduction
