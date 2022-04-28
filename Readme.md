@@ -3,7 +3,7 @@
 
 ## Introduction
 Our society obsess with pursuing the perpetrators. Legal justice is reduced to a cathartic function.
-But victims search first and formost to help and protect potential other victims. And a rape victim is the best at protecting and understanding the damages caused by their own perpretator.
+But victims may wish something else: the wish to move one, the wish to help and protect potential other victims. And a rape victim is the best at protecting and understanding the damages caused by their own perpretator.
 
 Let’s make sense of their experience! Let’s throw their bottle to the internet sea!
 
@@ -16,9 +16,9 @@ In the folder [./docs](./docs) you will find an example of website [index.html](
 In it 3 information have to be put:
 1. The element that identify the perpetrator and that will allow the other victim to identify the perpetrator. (for instance, name, city etc.). NEVER use pejorative or accusative terms just stay as neutral and objective as possible.
 2. A reference to the feeling and the context in which the potential other victim is likely to be (and to recognise themselves), for instance: in a close relationship with the perpetrator, underage, feeling sad etc. NEVER mention the rape explicitely.
-3. A contact info.
+3. A contact info (keep it anonymous if any safety concern).
 
-In the folder Leda we will put an example from a victim.
+In the folder Leda we will put an [example](./public/index.html) from a victim.
 
 ## For the techies
 There is a mustache template. Just change the text in the [base.yml](base.yml) and run:
