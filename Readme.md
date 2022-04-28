@@ -14,11 +14,11 @@ This is the template for a website that any victim of rape or sexual assault can
 In the folder [./docs](./docs) you will find an example of website [index.html](https://mardub1635.github.io/covictim/). Just replace the text with your own text instead.
 
 In it 3 information have to be put:
-1. The element that identify the perpetrator and that will allow the other victim to identify the perpetrator. (for instance, name, city etc.). NEVER use pejorative or accusative terms just stay as neutral and objective as possible.
+1. The element that will allow the other victim to identify the perpetrator. (for instance, name, city etc.). NEVER use pejorative or accusative terms just stay as neutral and objective as possible.
 2. A reference to the feeling and the context in which the potential other victim is likely to be (and to recognise themselves), for instance: in a close relationship with the perpetrator, underage, feeling sad etc. NEVER mention the rape explicitely.
-3. A contact info (keep it anonymous if serious safety concern).
+3. A contact info (keep it anonymous if you have serious safety concern).
 
-In the folder Leda we will put an [example](https://mardub1635.github.io/covictim/) from a victim.
+In the folder docs we will put an [example](https://mardub1635.github.io/covictim/) from a victim.
 
 ## Inspirations
 
@@ -31,6 +31,7 @@ great app, excellent idea! one problem: it will take hundreds of years before an
 ## Files
  - [index.html](./public/index.html) the template [website](https://mardub1635.github.io/covictim/) based on the story of [Leda](https://www.greekmythology.com/Myths/Mortals/Leda/leda.html) raped by Jupiter.
  - [docs](./docs) example websites that you can see live on https://mardub1635.github.io/covictim/<example.html> for instance if the docs folder contains the file "index-fr.html" you can see the website live: [https://mardub1635.github.io/covictim/index-fr.html](https://mardub1635.github.io/covictim/index-fr.html)
+ - [Leda](./Leda) A folder containing the story of Leda a mythological victim of rape associated to revenge porn and how she used the website.
  - [Oath.txt](./aoth.txt), my main oath. I also inspire my deontology from this:https://capgemini.github.io/development/developers-hippocratic-oath/
 
 ## For the techies
