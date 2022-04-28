@@ -23,7 +23,7 @@ In the folder Leda we will put an [example](https://mardub1635.github.io/covicti
 ## Inspirations
 
 Other interesting references and resources:
-* [Jessica Ladd information escrow](https://www.ted.com/speakers/jessica_ladd)
+* [Jessica Ladd information escrow](https://www.ted.com/talks/jessica_ladd_the_reporting_system_that_sexual_assault_survivors_want)
 
 great app, excellent idea! one problem: it will take hundreds of years before any administration implement it in my own country.
 * [http://coabuse.fr/](http://coabuse.fr/)

@@ -8,10 +8,12 @@ So my story. I must have been 16 or so when there was this guy who decided to ra
 Ah, since I am a queen, tabloids have already published photos of the action:
 ![Leda-Wikipedia](./Leda_and_the_Swan_Pompeian_fresco.jpg)
 
-Such lack of discretion from wikipedia! I even discovered some ![revenge porn](https://commons.wikimedia.org/wiki/File:Sellier-Leda.jpg) on the e-agora.
+Thanks wikipedia!
+
+I even discovered some ![revenge porn](https://upload.wikimedia.org/wikipedia/commons/f/fa/Sellier-Leda.jpg) on the e-agora.
 
 Needless to say the young girl I was, felt pretty devastated.
 
 
 Zeus, he took himself for god, he felt grandiose and entitled.
-
+[to be followed]
