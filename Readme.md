@@ -3,7 +3,7 @@
 
 ## Introduction
 Our society obsess with pursuing the perpetrators. Legal justice is reduced to a cathartic function.
-But victims may wish something else: the wish to help and protect potential other victims, the wish to move on. And a rape victim is the best at protecting and understanding the damages caused by their own perpretator.
+But victims may wish something else: what about the wish to help and protect potential other victims? And a rape victim is the best at protecting and understanding the damages caused by their own perpretator.
 
 Let’s make sense of their experience! Let’s throw their bottle to the internet sea!
 
