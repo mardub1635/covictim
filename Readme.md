@@ -90,3 +90,4 @@ Leda.
 - [ ] https://www.balancetonporc.com/retrouvez-ses-victimes/
 - [ ] other website plateform : http://txti.es/ note: find something easy to use and that is SEO optimised????
 - [ ] Mention the Ukrainian war? This could be one solution when the legal system is inoperand in a country where war is happening. It is not because the country is in a war that rape stop happening, the opposit actually.
+- [ ] Internet is the only resilient place designed to survive war. The offense that the victim has been through deserves also a resilient place, not in weak and closed government dependant administration.
