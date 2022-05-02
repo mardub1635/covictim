@@ -25,7 +25,7 @@ In the folder docs we will put an [example](https://mardub1635.github.io/covicti
 Other interesting references and resources:
 * [Jessica Ladd information escrow](https://www.ted.com/talks/jessica_ladd_the_reporting_system_that_sexual_assault_survivors_want)
 
-Great app, excellent idea! Two problems: 1) it will take hundreds of years before any administration implement it in my own land 2) this app knows country borders when prepatrators do not.
+Great app, excellent idea! One problems: it will take hundreds of years before any administration implement it in my own land.
 * [http://coabuse.fr/](http://coabuse.fr/)
 
 ## Files
