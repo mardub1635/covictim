@@ -47,8 +47,7 @@ As far as we know  there is nothing illegal or immoral in calling other victims 
 Justice knows borders when perpetrators don’t. Justice put the victim into a Kafkaian situation that is the last thing a victim deserves to live. Asking a victim why they do not pursue their rapist is like asking one victim of the titanic why they don’t go destroy the iceberg. They have better things to do, thank you!
 
 ---
-## This project needs help from victims, lawyers, tech, and communication people. If you have impressions to share please contact me: covictim@uppsala.ai you can also connect anonymously on this chat platform: https://buddypond.com/ send a buddy request to the pseudo called "unicorn". This chat plateform is fully anonymous and the data safely disappear from any server beyound 100 messages.
-
+## This project needs help from victims, lawyers, tech, and communication people. If you have impressions to share please contact me: covictim@uppsala.ai.
 ## Issues:
 - [ ] Contact lawyers. Make sure the victims have all the legal info they need before doing this website.
 - [ ] Create an issue with all the questions to lawyers: what a victim has the right to put without risk legally? How should he/she behave?
